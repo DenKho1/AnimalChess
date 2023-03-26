@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Water
+comment0.text=\r\n\ This\ class\ represents\ the\ water\ tiles\ of\ the\ board\ used\ in\ the\ game\r\n\r\n\ @author\ John\ Paul\ Pangan\ and\ Denise\ Kho\r\n\ @version\ 1.0\r\n
+comment1.params=x\ y
+comment1.target=Water(int,\ int)
+comment1.text=This\ constructor\ initializes\ the\ tile\ based\ on\ the\ given\ parameters\r\n\ \ \ \ \ @param\ x\ x\ position\r\n@param\ y\ y\ postion
+numComments=2

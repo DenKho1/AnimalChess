@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=AnimalChessGUI
+comment0.text=\r\n\ This\ class\ is\ for\ the\ GUI\ and\ Controller\ of\ the\ game\r\n\r\n\ @author\ John\ Paul\ Pangan\ and\ Denise\ Kho\r\n\ @version\ 1.0\r\n
+comment1.params=l
+comment1.target=void\ initTiles(javax.swing.JLayeredPane)
+comment1.text=\ \r\nThis\ method\ initializes\ and\ adds\ the\ TileGUI\ objects\ to\ the\ layeredPane\ given\ in\ the\ parameter\r\n@param\ l\ LayeredPane\ that\ will\ be\ given\ the\ tiles\r\n
+comment2.params=
+comment2.target=void\ updateBoard()
+comment2.text=\ \r\nThis\ method\ updates\ the\ TileGUI\ array\ to\ reflect\ the\ board\ Tile\ array\r\n
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=4

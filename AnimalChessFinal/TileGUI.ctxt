@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TileGUI
+comment0.text=\r\n\ This\ class\ represents\ the\ TileGUI\ JLabels\r\n\r\n\ @author\ John\ Paul\ Pangan\ and\ Denise\ Kho\r\n\ @version\ 1.0\r\n
+comment1.params=x\ y
+comment1.target=TileGUI(int,\ int)
+comment1.text=This\ Constructor\ initializes\ the\ x\ and\ y\ positions,\ the\ JLabel\ and\ sets\ its\ bounds\ based\ on\ the\ given\ parameters\r\n\ \ \ \ @param\ x\ x\ position\r\n@param\ y\ y\ position
+comment2.params=c\ a
+comment2.target=void\ updateIcon(int,\ int)
+comment2.text=this\ method\ sets\ the\ Icon\ based\ on\ the\ given\ parameters\r\n\ \ \ \ @param\ c\ color\ of\ the\ animal\r\n@param\ a\ the\ rank\ of\ the\ animal
+numComments=3

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Elephant
+comment0.text=\r\n\ This\ class\ represents\ the\ Elephant\ animal\ piece\ used\ in\ the\ game\r\n\r\n\ @author\ John\ Paul\ Pangan\ and\ Denise\ Kho\r\n\ @version\ 1.0\r\n
+comment1.params=x\ y\ c
+comment1.target=Elephant(int,\ int,\ java.lang.String)
+comment1.text=\ \r\n\ \ This\ constructor\ initializes\ the\ color,\ x\ position\ and\ y\ position\ of\ the\ Elephant\ based\ on\ the\ given\ parameters.\ \r\n\ \ @param\ x\ the\ x\ position\ of\ the\ Elephant\r\n\ \ @param\ y\ the\ y\ position\ of\ the\ Elephant\r\n\ \ @param\ c\ the\ color\ of\ the\ Elephant\r\n
+numComments=2

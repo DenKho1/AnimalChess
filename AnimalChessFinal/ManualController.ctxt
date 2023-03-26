@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ManualController
+comment0.text=\r\nThis\ class\ represents\ the\ controller\ for\ ManualGUI\r\n\ reference\:\ ccprog3\ lectures\r\n\r\n\ @author\ John\ Paul\ Pangan\ and\ Denise\ Kho\r\n\ @version\ 1.0\r\n
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=
+comment2.target=void\ updateView()
+comment2.text=\ \r\nThis\ method\ updates\ the\ view/GUI\ \r\n
+numComments=3

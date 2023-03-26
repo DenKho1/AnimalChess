@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=SelectionGUI
+comment0.text=\r\n\ This\ class\ represents\ the\ view\ and\ the\ controller\ for\ the\ selection\ screen\r\n\r\n\ @author\ John\ Paul\ Pangan\ and\ Denise\ Kho\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=SelectionGUI()
+comment1.text=This\ constructor\ initializes\ the\ Bag,\ Frame,\ GUI\ components\ (via\ initScreen())\ and\ shuffles\ the\ bag
+comment2.params=
+comment2.target=void\ initScreen()
+comment2.text=This\ method\ initializes\ the\ GUI\ Components
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=4

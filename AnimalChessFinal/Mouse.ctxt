@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Mouse
+comment0.text=\r\n\ This\ class\ represents\ the\ Mouse\ animal\ piece\ used\ in\ the\ game\r\n\r\n\ @author\ John\ Paul\ Pangan\ and\ Denise\ Kho\r\n\ @version\ 1.0\r\n
+comment1.params=x\ y\ c
+comment1.target=Mouse(int,\ int,\ java.lang.String)
+comment1.text=\ This\ constructor\ initializes\ the\ name,\ color,rank,\ x\ position\ and\ y\ position\ of\ the\ Mouse\ based\ on\ the\ \ \ given\ parameters.\ \ \ \ \r\n\ \ @param\ c\ color\ of\ the\ Mouse\ \ \ \ \ \r\n\ \ @param\ x\ initial\ x\ position\ \r\n\ \ @param\ y\ initial\ y\ position\ \r\n
+numComments=2

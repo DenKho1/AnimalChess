@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ This\ class\ represents\ the\ Player\r\n\r\n\ @author\ John\ Paul\ Pangan\ and\ Denise\ Kho\r\n\ @version\ 1.0\r\n
+comment1.params=c\ i
+comment1.target=Player(java.lang.String,\ int)
+comment1.text=\ \r\n\ \ This\ constructor\ initializes\ the\ color\ and\ number\ of\ the\ Player\ based\ on\ the\ given\ parameters.\ \ \ \ \r\n\ \ @param\ c\ color\ of\ Player\r\n\ \ @param\ i\ number\ of\ player\ \r\n
+comment2.params=i\ b
+comment2.target=AnimalPiece\ Pick(int,\ Bag)
+comment2.text=\r\n\ This\ method\ gets\ an\ AnimalPiece\ from\ a\ specified\ bag\r\n\r\n\ @param\ \ i\ \ int,\ this\ specifies\ the\ pocket\ the\ player\ chose\r\n\ @param\ \ b\ \ Bag,\ this\ is\ the\ bag\ that\ the\ player\ is\ choosing\ from\r\n\ @return\ \ \ \ the\ AnimalPiece\ the\ player\ chose\r\n
+comment3.params=b\ a\ d
+comment3.target=void\ MovePiece(Board,\ int,\ char)
+comment3.text=\r\n\ This\ method\ moves\ the\ players\ animalPiece\r\n\ @param\ b\ \ Board,\ this\ specifies\ the\ board\ the\ player\ is\ moving\ on\r\n\ @param\ \ a\ \ AnimalPiece,\ this\ specifies\ the\ animal\ the\ player\ chose\r\n\ @param\ \ d\ \ char,\ this\ is\ the\ direction\ the\ player\ wants\ to\ go\r\n\ @return\ \ \ \ void\r\n
+comment4.params=
+comment4.target=java.lang.String\ getColor()
+comment4.text=\r\n\ This\ method\ returns\ the\ color\ attribute\ of\ the\ player\r\n\r\n\ @return\ \ \ the\ color\ of\ the\ player\r\n
+comment5.params=
+comment5.target=int\ getNumber()
+comment5.text=\r\n\ This\ method\ returns\ the\ number\ attribute\ of\ the\ player\r\n\r\n\ @return\ \ \ the\ number\ of\ the\ player\r\n
+comment6.params=c
+comment6.target=void\ setColor(java.lang.String)
+comment6.text=\r\n\ This\ method\ updates\ the\ color\ attribute\ of\ the\ player\r\n\ \r\n\ @param\ \ c\ String,\ a\ color\ \r\n\ @return\ \ \ void\r\n
+comment7.params=i
+comment7.target=void\ setNumber(int)
+comment7.text=\r\n\ This\ method\ updates\ the\ number\ attribute\ of\ the\ player\r\n\ \r\n\ @param\ \ i\ int,\ a\ number\r\n\ @return\ \ \ void\r\n
+numComments=8

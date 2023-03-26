@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MainMenuGUI
+comment0.text=\r\nThis\ class\ represents\ the\ GUI\ for\ the\ main\ menu\r\n\r\n\ @author\ John\ Paul\ Pangan\ and\ Denise\ Kho\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=MainMenuGUI()
+comment1.text=\ This\ constructor\ initializes\ the\ GUI\ Components\ \ \ *(via\ initScreen())\ and\ the\ frame\r\n
+comment2.params=
+comment2.target=void\ initScreen()
+comment2.text=this\ method\ initializes\ the\ GUI\ Components
+comment3.params=listener
+comment3.target=void\ setListener(java.awt.event.ActionListener)
+comment3.text=\ this\ method\ sets\ the\ ActionListeners\r\n@param\ listener\ ActionListener
+numComments=4

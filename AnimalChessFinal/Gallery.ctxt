@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Gallery
+comment0.text=\r\n\ The\ Gallery\ class\ contains\ all\ the\ pictures\ for\ the\ animal\ pieces\ and\ makes\ it\ easy\ to\ access\r\n\r\n\ @author\ John\ Paul\ Pangan\ and\ Denise\ Kho\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Gallery()
+comment1.text=\ This\ constructor\ initializes\ the\ ImageIcon\ array\ and\ its\ contents\r\n\r\n
+comment2.params=c\ a
+comment2.target=javax.swing.ImageIcon\ getIcon(int,\ int)
+comment2.text=This\ method\ returns\ the\ corresponding\ ImageIcon\ based\ on\ the\ given\ parameters\r\n\ \ \ \ @param\ c\ color\ of\ the\ animal\r\n\ \ \ \ @param\ a\ rank\ of\ the\ animal\r\n@return\ Image\ of\ the\ colored\ animal
+numComments=3

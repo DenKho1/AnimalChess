@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ColorSelectionGUI
+comment0.text=\r\n\ This\ class\ represents\ the\ ColorSelection\ GUI\r\n\r\n\ @author\ John\ Paul\ Pangan\ and\ Denise\ Kho\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=ColorSelectionGUI()
+comment1.text=\ This\ constructor\ initializes\ the\ GUI\ Components\ (via\ initScreen())\ and\ the\ Frame\r\n\r\n
+comment2.params=
+comment2.target=void\ initScreen()
+comment2.text=\ \r\nThis\ method\ initializes\ the\ GUI\ Components\ and\ adds\ it\ to\ the\ frame\r\n\r\n
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=4

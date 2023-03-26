@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Leaper
+comment0.text=\r\n\ This\ class\ represents\ the\ Lion\ and\ Tiger\ animal\ pieces\ used\ in\ the\ game\r\n\r\n\ @author\ John\ Paul\ Pangan\ and\ Denise\ Kho\r\n\ @version\ 1.0\r\n
+comment1.params=n\ c\ r\ x\ y
+comment1.target=Leaper(java.lang.String,\ java.lang.String,\ int,\ int,\ int)
+comment1.text=\ This\ constructor\ initializes\ the\ name,\ color,rank,\ x\ position\ and\ y\ position\ of\ the\ Leaper\ based\ on\ the\ given\ parameters.\ \ \ \r\n\ \ @param\ n\ name\ of\ the\ Leaper\ \ \ \ \ \r\n\ \ @param\ c\ color\ of\ the\ Leaper\ \ \ \ \r\n\ \ @param\ r\ rank\ of\ the\ Leaper\ \ \r\n\ \ @param\ x\ initial\ x\ position\ \r\n\ \ @param\ y\ initial\ y\ position\ \r\n
+numComments=2

@@ -1,0 +1,33 @@
+#BlueJ class context
+comment0.target=Notebook
+comment0.text=\r\n\ This\ class\ represents\ the\ manual\ of\ the\ game\r\n\r\n\ @author\ John\ Paul\ Pangan\ and\ Denise\ Kho\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Notebook()
+comment1.text=\r\n\ This\ Constructor\ initializes\ the\ Page\ Array\ and\ the\ Current\ page\ variable\r\n
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=content
+comment2.target=void\ writeOnPage(java.lang.String)
+comment2.text=This\ method\ sets\ the\ content\ of\ the\ current\ page\ to\ the\ parameter\r\n@param\ content\ info\ to\ be\ set
+comment3.params=
+comment3.target=java.lang.String\ retrieveContent()
+comment3.text=This\ method\ returns\ the\ info\ on\ the\ current\ page\r\n@return\ content\ info\ in\ the\ current\ page
+comment4.params=
+comment4.target=void\ nextPage()
+comment4.text=This\ method\ increments\ the\ curPage\ variable\ if\ the\ condition\ is\ met
+comment5.params=
+comment5.target=void\ prevPage()
+comment5.text=This\ method\ decrements\ the\ curPage\ variable\ if\ the\ condition\ is\ met
+comment6.params=
+comment6.target=boolean\ isAtFirstPage()
+comment6.text=This\ method\ checks\ if\ curPage\ \=\=\ 1\ or\ if\ the\ notebook\ is\ on\ the\ first\ page
+comment7.params=
+comment7.target=boolean\ isAtLastPage()
+comment7.text=This\ method\ checks\ if\ curPage\ \=\=\ pages.length\ or\ if\ the\ notebook\ is\ on\ the\ last\ page
+comment8.params=
+comment8.target=int\ getCurrentPageNo()
+comment8.text=This\ method\ returns\ curPage\r\n@return\ current\ page\ number
+comment9.params=
+comment9.target=int\ getNumberOfPages()
+comment9.text=This\ method\ returns\ how\ many\ pages\ the\ notebook\ has\r\n@return\ notebook\ capacity/length
+numComments=11

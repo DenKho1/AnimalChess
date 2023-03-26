@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=WinGUI
+comment0.text=\r\n\ This\ class\ represents\ the\ view\ and\ the\ controller\ for\ the\ Win\ screen\r\n\r\n\ @author\ John\ Paul\ Pangan\ and\ Denise\ Kho\r\n\ @version\ 1.0\r\n
+comment1.params=Win
+comment1.target=WinGUI(int)
+comment1.text=This\ Constructor\ initializes\ the\ frame\ and\ GUI\ Components\ (via\ initScreen(Win))\ based\ on\ the\ parameter\r\n@param\ Win\ the\ player\ number\ of\ the\ winner
+comment2.params=Win
+comment2.target=void\ initScreen(int)
+comment2.text=This\ Constructor\ initializes\ the\ GUI\ Components\ based\ on\ the\ parameter\r\n@param\ Win\ the\ player\ number\ of\ the\ winner
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=4

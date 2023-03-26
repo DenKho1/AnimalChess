@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Den
+comment0.text=\r\n\ This\ class\ represents\ the\ Den\ tiles\ of\ the\ board\ used\ in\ the\ game\r\n\r\n\ @author\ John\ Paul\ Pangan\ and\ Denise\ Kho\r\n\ @version\ 1.0\r\n
+comment1.params=c\ x\ y\ p
+comment1.target=Den(java.lang.String,\ int,\ int,\ int)
+comment1.text=\ \r\n\ \ This\ constructor\ initializes\ the\ color,\ x\ position,\ y\ position\ and\ player\ number\ of\ the\ Den\ based\ on\ the\ given\ parameters.\ \ \ \ \r\n\ \ @param\ c\ color\ of\ Player\r\n\ \ @param\ x\ x\ position\r\n\ \ @param\ y\ y\ position\r\n\ \ @param\ p\ player\ number\ \r\n
+comment2.params=
+comment2.target=java.lang.String\ getColor()
+comment2.text=This\ method\ returns\ the\ assigned\ color\ of\ the\ Den\r\n\ \ @return\ the\ String\ the\ describes\ the\ color\ of\ the\ Den\r\n
+comment3.params=
+comment3.target=int\ getPlayer()
+comment3.text=This\ method\ returns\ the\ assigned\ player\ of\ the\ Den\r\n@return\ the\ number\ of\ the\ player\ who\ owns\ the\ Den\r\n
+numComments=4

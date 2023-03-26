@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Bag
+comment0.text=\r\n\ This\ class\ represents\ the\ bag\ of\ animal\ pieces\ the\ player\ selects\ from\ before\ playing\ the\ game\r\n\r\n\ @author\ John\ Paul\ Pangan\ and\ Denise\ Kho\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Bag()
+comment1.text=\ \r\nThis\ constructor\ initializes\ the\ AnimalPiece\r\narray\ of\ the\ Bag\ object\r\n
+comment2.params=
+comment2.target=void\ shuffle()
+comment2.text=\ \r\nThis\ method\ shuffles\ the\ contents\ of\ the\ pieces\ array\r\n
+comment3.params=i
+comment3.target=AnimalPiece\ getPiece(int)
+comment3.text=\ \r\nThis\ method\ returns\ the\ AnimalPiece\ at\ index\ i\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\ \r\nThis\ method\ prints\ out\ the\ contents\ of\ the\ pieces\ array\r\n
+numComments=5

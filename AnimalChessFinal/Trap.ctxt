@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Trap
+comment0.text=\r\n\ This\ class\ represents\ the\ trap\ tiles\ of\ the\ board\ used\ in\ the\ game\r\n\r\n\ @author\ John\ Paul\ Pangan\ and\ Denise\ Kho\r\n\ @version\ 1.0\r\n
+comment1.params=c\ x\ y\ p
+comment1.target=Trap(java.lang.String,\ int,\ int,\ int)
+comment1.text=The\ construtor\ that\ assigns\ the\ x\ and\ y\ position,\ the\ color,\ and\ the\ player\ assigned\ to\ the\ Trap\r\n\ \ @param\ c\ the\ color\ of\ the\ trap\r\n\ \ @param\ x\ the\ horizontal\ position\ of\ the\ trap\r\n\ \ @param\ y\ the\ vertical\ position\ of\ the\ trap\r\n\ \ @param\ p\ the\ player\ assigned\ to\ the\ trap\r\n
+comment2.params=
+comment2.target=java.lang.String\ getColor()
+comment2.text=This\ method\ returns\ the\ color\ of\ the\ Trap\r\n\ \ @return\ the\ color\ of\ the\ Trap\r\n
+comment3.params=
+comment3.target=int\ getPlayer()
+comment3.text=This\ method\ returns\ the\ Player\ of\ the\ Trap\r\n\ \ @return\ the\ player\ assigned\ to\ the\ Trap\r\n
+numComments=4

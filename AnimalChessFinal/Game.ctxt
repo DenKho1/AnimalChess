@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\r\n\ This\ class\ represents\ the\ game\ model\r\n\r\n\ @author\ John\ Paul\ Pangan\ and\ Denise\ Kho\r\n\ @version\ 1.0\r\n
+comment1.params=c1\ c2
+comment1.target=Game(java.lang.String,\ java.lang.String)
+comment1.text=\ \r\n\ \ This\ constructor\ initializes\ the\ Game\ object\ \ \ \r\n\ \ @param\ c1\ color\ of\ player\ 1\r\n\ \ @param\ c2\ color\ of\ player\ 2\r\n
+comment2.params=
+comment2.target=Tile[][]\ getTiles()
+comment2.text=This\ method\ returns\ all\ the\ tiles\ that\ are\ on\ the\ gameboard\r\n\ \ @return\ the\ complete\ array\ of\ tiles\ on\ the\ gameboard\r\n
+comment3.params=
+comment3.target=Board\ getBoard()
+comment3.text=This\ method\ returns\ the\ gameboard\r\n\ \ @return\ the\ entire\ gameboard\r\n
+comment4.params=
+comment4.target=java.lang.String\ getC1()
+comment4.text=This\ method\ returns\ the\ color\ of\ player\ 1\r\n\ \ \ @return\ the\ String\ that\ describes\ the\ color\ of\ player\ 1\r\n
+comment5.params=
+comment5.target=java.lang.String\ getC2()
+comment5.text=This\ method\ returns\ the\ color\ of\ player\ 2\r\n\ \ \ \ @return\ the\ String\ that\ describes\ the\ color\ of\ player\ 2\r\n
+numComments=6

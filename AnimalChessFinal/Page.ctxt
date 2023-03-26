@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Page
+comment0.text=\r\n\ This\ class\ represents\ the\ Pages\ of\ a\ Manual\r\n\r\n\ @author\ John\ Paul\ Pangan\ and\ Denise\ Kho\r\n\ @version\ 1.0\r\n
+comment1.params=pageno
+comment1.target=Page(int)
+comment1.text=This\ constructor\ initializes\ the\ pageno\ variable
+comment2.params=
+comment2.target=java.lang.String\ getContent()
+comment2.text=This\ method\ returns\ the\ content\ String\r\n@return\ content
+comment3.params=
+comment3.target=int\ getPageNo()
+comment3.text=This\ method\ returns\ pageno\r\n@return\ pageno
+comment4.params=content
+comment4.target=void\ setContent(java.lang.String)
+comment4.text=This\ method\ sets\ the\ content\ String\ to\ the\ given\ parameter\r\n@param\ content\ to\ be\ set
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
